@@ -11,12 +11,9 @@ pip install -r requirements.txt
 
 ## Run the app
 
-You can run the app directly by executing `app.pp`, but if you
-use `flask run` it will load the `.env`.
+You can run the app directly by executing `app.py`.
 
 ```bash
 python app.py
-# Or
-flask run
 ```
 
